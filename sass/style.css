@@ -218,7 +218,7 @@ body a {
 
 .skills {
   text-align: center;
-  margin-top: 20%;
+  margin-top: 10%;
   margin-right: 20%;
   margin-left: 20%;
   font-size: 24px;
@@ -251,7 +251,7 @@ body a {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-top: 5%;
+  margin-top: 0%;
   margin-right: 20%;
   margin-left: 20%;
 }
@@ -303,7 +303,7 @@ body a {
 
 .portfolio {
   text-align: center;
-  margin-top: 20%;
+  margin-top: 10%;
   margin-right: 20%;
   margin-left: 20%;
   font-size: 24px;
@@ -355,6 +355,10 @@ body a {
 .down a {
   margin-right: 1%;
   margin-left: 1%;
+}
+
+.down img {
+  height: 80px;
 }
 
 @media (max-width: 820px) {
